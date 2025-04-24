@@ -5,7 +5,7 @@ Proyek ini bertujuan untuk membangun model klasifikasi buah, khususnya untuk mem
 ---
 
 ## 📁 Dataset
-Dataset:`https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit`
+Dataset: *https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit*
 Jumlah sampel: 10.000 baris  
 Fitur: Karakteristik buah (seperti diameter, weight, min/max pixel, dsb)  
 Label: `name` (orange atau grapefruit)
